@@ -19,6 +19,8 @@ This JavaScript code selects all radio buttons on the page and adds a click even
 When a radio button is clicked, the event’s default action is prevented, and a timeout is set to toggle the checked state of the radio button. 
 This effectively allows radio buttons to be unchecked by clicking on them.
 
+Live Demo: https://disha1527.github.io/Team-Profiles-Rotation/
+
 ![Team Profiles rotation with pure CSS - Google Chrome 14-03-2025 17_54_34](https://github.com/user-attachments/assets/9588c5cd-fbaa-4b36-ba90-2c2becfe157b)
 
 ![Team Profiles rotation with pure CSS - Google Chrome 14-03-2025 17_54_07](https://github.com/user-attachments/assets/caf35b49-50b7-4d36-9065-eae9be782732)
